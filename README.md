@@ -1,3 +1,3 @@
 # repo1
 this is my first repo <br>
-author - shaikh
+author - sheikh
